@@ -2,6 +2,7 @@
 
 # My Github Stats
 ![My Repository Stats](https://github-readme-stats.vercel.app/api?username=equinox-jj&show_icons=true)
+
 ![My Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=equinox-jj&theme=blue-green)
 
 <!--

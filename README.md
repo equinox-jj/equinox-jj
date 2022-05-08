@@ -1,8 +1,9 @@
-<!-- ![Image](https://github.com/equinox-jj/equinox-jj/blob/main/79564114.jpg) -->
+<p align="center">
+  <img width="700" src="https://github.com/equinox-jj/equinox-jj/blob/main/hello.gif">
+<h1 align="center">My Name Is <a href="https://www.linkedin.com/in/joshua-jeremia-pardede/">Joshua Jeremia</a></h1>
+</p>
 
-<!-- Hi -->
-
-# My Github Stats
+## My Github Stats
 ![My Repository Stats](https://github-readme-stats.vercel.app/api?username=equinox-jj&show_icons=true)
 
 ![My Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=equinox-jj&theme=blue-green)

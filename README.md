@@ -1,6 +1,6 @@
 <p align="center">
   <img width="700" src="https://github.com/equinox-jj/equinox-jj/blob/main/hello.gif">
-<h1 align="center">My Name Is <a href="https://www.linkedin.com/in/joshua-jeremia-pardede/">Joshua Jeremia</a></h1>
+<h1 align="center">My name is <a href="https://www.linkedin.com/in/joshua-jeremia-pardede/">Joshua Jeremia</a></h1>
 </p>
 
 ## My Github Stats

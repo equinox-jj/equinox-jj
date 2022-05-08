@@ -1,6 +1,6 @@
-![Image](https://github.com/equinox-jj/equinox-jj/blob/main/79564114.jpg)
+<!-- ![Image](https://github.com/equinox-jj/equinox-jj/blob/main/79564114.jpg) -->
 
-Hi
+<!-- Hi -->
 
 # My Github Stats
 ![My Repository Stats](https://github-readme-stats.vercel.app/api?username=equinox-jj&show_icons=true)

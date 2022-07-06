@@ -4,9 +4,9 @@
 </p>
 
 ## My Github Stats
-![My Repository Stats](https://github-readme-stats.vercel.app/api?username=equinox-jj&show_icons=true)
+![My Repository Stats](https://github-readme-stats.vercel.app/api?username=equinox-jj&show_icons=true&theme=tokyonight)
 
-![My Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=equinox-jj&theme=blue-green)
+![My Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=equinox-jj&theme=tokyonight)
 
 <!--
 **equinox-jj/equinox-jj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

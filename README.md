@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Joshua Jeremia</h1>
-- 📖 I’m currently learning Kotlin and Flutter for mobile development.
+- 📖 I’m currently learning Jetpack Compose and Flutter for mobile development.
 <h3 align="left">📍 Connect with me:</h3>
 <p align="left">
    <a href="https://linkedin.com/in/joshua-jeremia-pardede" target="blank">

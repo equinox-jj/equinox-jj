@@ -45,7 +45,7 @@ I'm a **freelance mobile developer** focused on building clean, scalable, and pr
 🏗️ Architecture
 ├── Clean Architecture
 ├── Feature-based architecture
-├── BLoC / State Management
+├── BLoC, Riverpod, Getx / State Management
 └── Modular applications
 
 ☁️ Backend & Services
@@ -74,46 +74,27 @@ I'm a **freelance mobile developer** focused on building clean, scalable, and pr
 
 ## 📌 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
 ### 📍 Pantau
 
-Civic issue reporting application designed to help users report and track problems in their local communities.
+> **Civic Issue Reporting Platform**
 
-**Tech:** Flutter • Dart • REST API
+A full-stack civic platform designed to help communities report, track, and manage local issues.
 
-</td>
-
-<td width="50%">
-
-### 🔄 LocalLoop
-
-AI-powered local discovery and itinerary planning concept for discovering places, events and activities.
-
-**Tech:** Flutter • Maps • AI
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
+| Component          | Technology     | Repository                                         |
+| ------------------ | -------------- | -------------------------------------------------- |
+| 📱 **Mobile App**  | Flutter / Dart | [PantauFE](https://github.com/equinox-jj/PantauFE) |
+| ⚙️ **Backend API** | Go             | [PantauBE](https://github.com/equinox-jj/PantauBE) |
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=equinox-jj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="170"
-  />
-
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=equinox-jj&layout=compact&theme=tokyonight&hide_border=true"
- height="170"
-/>
-
+  <a href="https://github.com/equinox-jj/PantauFE">
+    <img src="https://img.shields.io/badge/📱%20Flutter-PantauFE-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  </a>
+  <a href="https://github.com/equinox-jj/PantauBE">
+    <img src="https://img.shields.io/badge/⚙️%20Backend-PantauBE-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  </a>
 </p>
+
+**Architecture:** Clean Architecture • REST API • Authentication • Database • Mobile-first UI
 
 ---
 
@@ -123,17 +104,6 @@ AI-powered local discovery and itinerary planning concept for discovering places
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=equinox-jj&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
-  />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/equinox-jj/equinox-jj/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
   />
 </p>
 
@@ -169,6 +139,10 @@ AI-powered local discovery and itinerary planning concept for discovering places
 ## 📫 Let's Connect
 
 <p align="center">
+
+<a href="mailto:joshua.jeremia@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <a href="https://linkedin.com/in/joshua-jeremia-pardede">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>

@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Flutter+%2F+Dart;Jetpack+Compose+%2F+Kotlin;Building+production+mobile+apps;Currently+learning+Spring+Boot;Open+for+freelance+projects+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Flutter+%2F+Dart;Jetpack+Compose+%2F+Kotlin;Go+%2F+Golang+Backend;Building+production+mobile+apps;Open+for+freelance+projects+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ I'm a **freelance mobile developer** focused on building clean, scalable, and pr
 * 📱 ~2 years of experience building production mobile apps
 * 🦋 Primary stack: **Flutter & Dart**
 * 🤖 Android development with **Kotlin & Jetpack Compose**
-* 🌱 Currently learning **Spring Boot & backend development**
+* 🐹 Backend development with **Go / Golang**
 * 🏗️ Interested in **Clean Architecture, scalable apps & good UI/UX**
 * 💼 Open for **freelance & collaboration projects**
 * ⚡ Fun fact: I once built an app from scratch solo at **SociaFeed**
@@ -45,11 +45,11 @@ I'm a **freelance mobile developer** focused on building clean, scalable, and pr
 🏗️ Architecture
 ├── Clean Architecture
 ├── Feature-based architecture
-├── BLoC, Riverpod, Getx / State Management
+├── BLoC, Riverpod, GetX / State Management
 └── Modular applications
 
 ☁️ Backend & Services
-├── Spring Boot
+├── Go / Golang
 ├── PostgreSQL
 ├── Firebase
 └── REST APIs
@@ -66,7 +66,7 @@ I'm a **freelance mobile developer** focused on building clean, scalable, and pr
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,java,spring,postgres,firebase,git,github,figma&perline=6" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,go,postgres,firebase,git,github,figma&perline=5" />
 
 </p>
 
@@ -113,7 +113,7 @@ A full-stack civic platform designed to help communities report, track, and mana
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Spring%20Boot-Learning-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-Backend%20Development-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Backend-Development-36BCF7?style=for-the-badge" />
 
